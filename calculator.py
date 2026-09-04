@@ -3,4 +3,5 @@ b = 5
 print(a+b)
 print(a*b)
 print(a-b)
-print("discount calculation added")
+print("Discount calculation added")
+print("Tax calculation added")
