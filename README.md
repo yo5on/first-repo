@@ -1,14 +1,22 @@
-# Git & Python Practice
+<div align="center">
 
-A small starter repository for practising Git/GitHub basics and writing simple Python scripts.
+<samp><b>YO5ON · GIT & PYTHON PRACTICE</b></samp>
 
-## Files
+<samp>python · git · github · programming fundamentals</samp>
+
+</div>
+
+---
+
+<div align="center"><samp>A small starter repository for practising Git/GitHub basics and writing simple Python scripts.</samp></div>
+
+<h2 align="center"><samp><b>Files</b></samp></h2>
 
 - `hello.py` — prints a hello message about Git and GitHub.
 - `calculator.py` — demonstrates basic arithmetic with two fixed numbers and contains placeholder messages for later discount/tax exercises.
 - `reset-test.txt` — a small file used for repository/reset experiments.
 
-## Run the Python Examples
+<h2 align="center"><samp><b>Run the Python Examples</b></samp></h2>
 
 Requires Python 3.
 
@@ -19,7 +27,7 @@ python calculator.py
 
 On Windows, `py hello.py` and `py calculator.py` are alternatives when the Python launcher is installed.
 
-## Git Practice Ideas
+<h2 align="center"><samp><b>Git Practice Ideas</b></samp></h2>
 
 Try creating a branch, editing one of the scripts, checking the diff, committing the change, and merging it back into `main`.
 
@@ -31,6 +39,14 @@ git add .
 git commit -m "Practice a small change"
 ```
 
-## Author
+<h2 align="center"><samp><b>Author</b></samp></h2>
 
-[Yoson](https://github.com/yo5on)
+<div align="center">
+
+---
+
+<samp><strong>Yoson</strong> · software, AI/ML and programming practice</samp>
+
+<samp><a href="https://github.com/yo5on">github.com/yo5on</a> · <a href="https://www.linkedin.com/in/yo5on">LinkedIn</a></samp>
+
+</div>
