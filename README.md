@@ -18,18 +18,18 @@
 
 <h2 align="center"><samp><b>Run the Python Examples</b></samp></h2>
 
-Requires Python 3.
+<samp>Requires Python 3.</samp>
 
 ```bash
 python hello.py
 python calculator.py
 ```
 
-On Windows, `py hello.py` and `py calculator.py` are alternatives when the Python launcher is installed.
+<samp>On Windows, `py hello.py` and `py calculator.py` are alternatives when the Python launcher is installed.</samp>
 
 <h2 align="center"><samp><b>Git Practice Ideas</b></samp></h2>
 
-Try creating a branch, editing one of the scripts, checking the diff, committing the change, and merging it back into `main`.
+<samp>Try creating a branch, editing one of the scripts, checking the diff, committing the change, and merging it back into `main`.</samp>
 
 ```bash
 git status
